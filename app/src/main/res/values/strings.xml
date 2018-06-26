@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">RedditClient</string>
+  <string name="drink_water">Drink Water</string>
+  <string name="water_is_very_important_for_our_health">water is very important for our health</string>
+  <string name="begin_habit">Start new habbit…</string>
+  <string name="eat_an_apple">eat an apple</string>
+  <string name="apple_descr">Apple description</string>
+  <string name="choose_image">Choose image</string>
+  <string name="selected_image">Selected image</string>
+  <string name="save">Save</string>
+</resources>
