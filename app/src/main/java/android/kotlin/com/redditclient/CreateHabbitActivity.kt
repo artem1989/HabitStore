@@ -13,7 +13,7 @@ import android.view.View
 import android.view.View.INVISIBLE
 import android.widget.EditText
 import kotlinx.android.synthetic.main.activity_create_habbit.*
-import kotlinx.android.synthetic.main.single_card.*
+
 import java.io.IOException
 
 class CreateHabbitActivity : AppCompatActivity() {
